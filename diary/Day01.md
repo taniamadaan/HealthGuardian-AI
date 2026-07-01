@@ -1,6 +1,6 @@
 # 📅 Day 1 – Training Orientation & Project Exploration
 
-**Date:** *(Add the date)*
+**Date:** *30 June 2026*
 
 ## 🎯 Objective
 
@@ -12,13 +12,12 @@ To understand the complete roadmap of the 4-week training program and gain clari
 
 The first day of the training focused on building a strong theoretical foundation rather than writing code. Our trainer introduced the complete workflow of a Machine Learning project and explained how each stage contributes to solving a real-world problem.
 
-Instead of diving directly into implementation, the session emphasized understanding the importance of data, different types of datasets, data preprocessing, visualization, machine learning concepts, and the overall roadmap of the training. This overview helped me understand what I will be learning and implementing over the next four weeks.
-
+Instead of starting with coding, the trainer explained how a Machine Learning project is carried out step by step—from understanding the data and preparing it for analysis to building predictive models. This session gave me a clear understanding of the complete learning journey that we will follow during the next four weeks.
 Towards the end of the session, we were asked to start exploring project ideas and search for suitable datasets that could be used throughout the training.
 
 ---
 
-## 🚀 Progress
+## 🚀 Project Progress
 
 - Understood the structure and objectives of the training program.
 - Explored different project ideas.
@@ -32,7 +31,7 @@ Today's session made me realize that a successful Machine Learning project is no
 
 ---
 
-## 📌 Next Steps
+## 📌 Plan for Tomorrow
 
 - Learn Python fundamentals.
 - Explore Python data structures.
