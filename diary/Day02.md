@@ -69,16 +69,6 @@ Today's learning strengthened my understanding of Python fundamentals and highli
 
 ---
 
-##  Plan for Tomorrow
-
-- Select and organize the diabetes dataset.
-- Load the dataset using Pandas.
-- Explore the dataset structure.
-- Study dataset features.
-- Begin data preprocessing and exploratory data analysis.
-
----
-
 ##  Reflection
 
 Today was an important milestone in my Machine Learning journey. Along with strengthening my Python fundamentals, I finalized my project idea after evaluating different possibilities and discussing them with my trainer. Receiving approval for the project increased my confidence, and I am excited to start working with real-world healthcare data in the upcoming sessions.
@@ -89,4 +79,4 @@ Today was an important milestone in my Machine Learning journey. Along with stre
 
 ##  Continue Learning
 
-**Next:** [Day 3 – Data Cleaning & Data Preprocessing](Day03.md)
+**Next:** [Day 3 – Data Cleaning, Preprocessing and Dataset Analysis](Day03.md)
