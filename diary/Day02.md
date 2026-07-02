@@ -82,3 +82,11 @@ Today's learning strengthened my understanding of Python fundamentals and highli
 ##  Reflection
 
 Today was an important milestone in my Machine Learning journey. Along with strengthening my Python fundamentals, I finalized my project idea after evaluating different possibilities and discussing them with my trainer. Receiving approval for the project increased my confidence, and I am excited to start working with real-world healthcare data in the upcoming sessions.
+
+---
+
+---
+
+##  Continue Learning
+
+**Next:** [Day 3 – Data Cleaning & Data Preprocessing](Day03.md)
