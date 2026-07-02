@@ -43,3 +43,9 @@ Today's session helped me understand that building a successful Machine Learning
 ##  Reflection
 
 The first day gave me a clear understanding of the overall training roadmap. Although there was no hands-on coding session, I realized that understanding the fundamentals is essential before beginning practical implementation. I am excited to start building my project and applying these concepts in the upcoming sessions.
+
+---
+
+##  Continue Learning
+
+**Next:** [Day 2 – Python Fundamentals & Project Finalization](Day02.md)
