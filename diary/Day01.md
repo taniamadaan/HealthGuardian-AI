@@ -31,15 +31,6 @@ Today's session helped me understand that building a successful Machine Learning
 
 ---
 
-##  Plan for Tomorrow
-
-- Learn Python fundamentals.
-- Explore Python data structures.
-- Begin working with Pandas.
-- Continue finalizing the project idea and dataset.
-
----
-
 ##  Reflection
 
 The first day gave me a clear understanding of the overall training roadmap. Although there was no hands-on coding session, I realized that understanding the fundamentals is essential before beginning practical implementation. I am excited to start building my project and applying these concepts in the upcoming sessions.
