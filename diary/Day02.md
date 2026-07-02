@@ -1,3 +1,7 @@
+ **Previous:** [Day 1 – Training Orientation & Project Exploration](Day01.md)
+
+---
+
 #  Day 2 – Python Fundamentals & Project Finalization
 
 **Date:** 1 July 2026
