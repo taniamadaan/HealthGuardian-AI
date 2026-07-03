@@ -118,4 +118,4 @@ Today's session was highly practical and interactive. Every preprocessing concep
 
 ##  Continue Learning
 
-**Next:** Day 4 – Coming Soon...
+**Next:** [Day 4 – Exploratory Data Analysis (EDA) & Feature Engineering](Day04.md)
