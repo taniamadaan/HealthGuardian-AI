@@ -172,4 +172,6 @@ Implementing every concept on my own HealthGuardian-AI diabetes dataset made the
 
 ---
 
-➡️ **Next Day:** [Day 5 – To be Updated]
+## Continue Learning
+
+**Next Day 5 coming soon...**
