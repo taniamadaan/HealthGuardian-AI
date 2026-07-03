@@ -174,4 +174,4 @@ Implementing every concept on my own HealthGuardian-AI diabetes dataset made the
 
 ## Continue Learning
 
-**Next Day 5 coming soon...**
+**Next:** Day 5 coming soon...
