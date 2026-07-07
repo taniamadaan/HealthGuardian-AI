@@ -157,4 +157,4 @@ Today's session gave me a deeper understanding of how graphical representations 
 
 ---
 
-**Next Day:** Day 6 coming soon...
+**Next Day:** [Day 6 – Feature Engineering](Day06.md)
