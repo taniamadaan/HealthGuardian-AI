@@ -1,4 +1,4 @@
-**Previous:** [Day 5 – Data Visualization](../Day-05-Data-Visualization/README.md)
+**Previous:** [Data Visualization using Matplotlib & Seaborn](Day05.md)
 
 ---
 
