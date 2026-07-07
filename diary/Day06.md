@@ -4,7 +4,7 @@
 
 #  Day 6 – Feature Engineering
 
-** Date:** 07 July 2026
+**Date:** 07 July 2026
 
 ---
 
@@ -136,5 +136,3 @@ Today's session helped me understand that Feature Engineering is much more than 
 ---
 
 **Next Day:** coming soon...
-
----
