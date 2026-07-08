@@ -135,4 +135,4 @@ Today's session helped me understand that Feature Engineering is much more than 
 
 ---
 
-**Next Day:** coming soon...
+**Next Day:** [Day 7 - Principal Component Analysis (PCA)](Day07.md)
