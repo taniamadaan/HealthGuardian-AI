@@ -1,4 +1,4 @@
-**Previous:** [Data Visualization using Matplotlib & Seaborn](Day05.md)
+**Previous:** [Day 5 - Data Visualization using Matplotlib & Seaborn](Day05.md)
 
 ---
 
