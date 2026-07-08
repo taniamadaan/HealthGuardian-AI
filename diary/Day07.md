@@ -198,7 +198,7 @@ This makes high-dimensional data easier to understand visually.
 
 #  Applications of PCA
 
-### 🏥 Healthcare
+###  Healthcare
 
 Hospitals collect hundreds of medical measurements for patients. PCA helps reduce these variables before training disease prediction models.
 
