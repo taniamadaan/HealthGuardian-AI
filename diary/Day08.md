@@ -1,4 +1,4 @@
-**Previous:** [](Day07.md)
+**Previous:** [Day 7 - Principal Component Analysis (PCA)](Day07.md)
 
 ---
 
