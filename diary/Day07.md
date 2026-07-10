@@ -233,4 +233,4 @@ PCA is widely used before model training to reduce dimensionality, improve effic
 
 ---
 
-**Next Day:**[Day 8 - Handling Class Imbalance in Machine Learning](Day08.md)
+**Next Day:** [Day 8 - Handling Class Imbalance in Machine Learning](Day08.md)
