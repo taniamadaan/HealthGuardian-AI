@@ -48,4 +48,4 @@ Today's concepts expanded my understanding of exploratory data analysis beyond b
 
 ## Continue Learning
 
-**Next Day :** [](Day10.md)
+**Next Day :** [Day 10 – Automated Data Profiling & Exploratory Data Analysis Tools](Day10.md)
