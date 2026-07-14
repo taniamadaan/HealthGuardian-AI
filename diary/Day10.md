@@ -48,4 +48,4 @@ Today's session introduced powerful visualization and profiling tools that simpl
 
 ## Continue Learning
 
-**Next Day :**[Day 11 - ](Day11.md)
+**Next Day :**[Day 11 - Introduction to Supervised Learning & Logistic Regression](Day11.md)
