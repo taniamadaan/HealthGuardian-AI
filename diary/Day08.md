@@ -46,4 +46,4 @@ Today's session gave me practical exposure to different techniques used for bala
 
 ## Continue Learning
 
-**Next Day**: coming soon...
+**Next Day**: [Day 9 - Pattern Detection & Advanced Data Analysis](Day09.md)
