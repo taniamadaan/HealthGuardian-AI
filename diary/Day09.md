@@ -1,4 +1,4 @@
-**Previous :** [](Day08.md)
+**Previous :** [Day 8 - Handling Class Imbalance in Machine Learning](Day08.md)
 
 ---
 
