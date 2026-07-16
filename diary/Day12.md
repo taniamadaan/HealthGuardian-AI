@@ -1,8 +1,10 @@
-**Previous :** [](Day11.md)
+**Previous :** [Day 11 – Introduction to Supervised Learning & Logistic Regression](Day11.md)
 
 ---
 
-# Day 12 – Machine Learning Model Implementation & Comparison (15 July)
+# Day 12 – Machine Learning Model Implementation & Comparison
+
+**Date:** 15 July 2026
 
 ## Objective
 Today's objective was to understand how different Machine Learning classification algorithms work and apply them to a dataset for prediction.
