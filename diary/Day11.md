@@ -49,4 +49,4 @@ Today's session strengthened my understanding of the complete machine learning p
 
 ## Continue Learning
 
-**Next Day :** coming soon...
+**Next Day :** [Day 12 – Machine Learning Model Implementation & Comparison](Day12.md)
