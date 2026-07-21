@@ -47,3 +47,8 @@ Finally, the performance of all three algorithms was compared to observe how reg
 ## Learning Outcome
 
 Today's session provided a clear understanding of regression models and the importance of regularization in machine learning. I learned the working principles of Linear Regression, Ridge Regression, and Lasso Regression, along with their advantages, limitations, and practical applications. I also understood how different regularization techniques help improve model generalization and how the choice of regression model depends on the characteristics of the dataset and the problem being solved.
+
+
+---
+
+**Next :**[Day 16 – Feature Selection Techniques](Day16.md)
