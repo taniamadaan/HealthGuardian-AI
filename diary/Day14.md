@@ -90,3 +90,8 @@ Additional tasks included:
 ## Learning Outcome
 
 Today's session helped me understand how tree-based machine learning algorithms make decisions and perform classification tasks. I learned the concepts of Gini Impurity, Entropy, and Information Gain, implemented Decision Tree and Random Forest classifiers, evaluated their performance using different metrics, visualized the decision-making process, and analyzed feature importance. I also understood why Random Forest generally provides more reliable predictions than a single Decision Tree by combining the outputs of multiple trees.
+
+
+---
+
+**Next :** [Day 15 – Regression Models & Regularization Techniques](Day15.md)
