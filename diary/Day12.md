@@ -118,3 +118,8 @@ The comparison helped understand:
 ## Learning Outcome
 
 Today I learned how classification algorithms are trained and evaluated on real datasets. I understood the working principles of Naive Bayes, KNN and SVM, learned how to split data into training and testing sets, evaluate model performance using accuracy, classification report and confusion matrix, and compare multiple machine learning models to identify the best-performing classifier.
+
+---
+
+**Next :* [ Day 13 – Project Evaluation & Progress Review](Day13.md)
+
