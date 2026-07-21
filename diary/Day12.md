@@ -121,5 +121,5 @@ Today I learned how classification algorithms are trained and evaluated on real 
 
 ---
 
-**Next :* [ Day 13 – Project Evaluation & Progress Review](Day13.md)
+**Next :** [Day 13 – Project Evaluation & Progress Review](Day13.md)
 
