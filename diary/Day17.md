@@ -59,4 +59,4 @@ Today's session provided a comprehensive understanding of Wrapper-based Feature 
 
 ---
 
-**Next :** [](Day18.md)
+**Next :** [Day 18 – Hyperparameter Tuning using Grid Search CV & Randomized Search CV](Day18.md)
