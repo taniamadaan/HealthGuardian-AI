@@ -51,4 +51,4 @@ Today's session strengthened my understanding of feature selection and its impor
 
 ---
 
-**Next :** coming soon...
+**Next :** [Day 17 – Wrapper-Based Feature Selection Techniques](Day17.md)
