@@ -31,4 +31,4 @@ Today's session reinforced the importance of applying theoretical concepts to a 
 
 ---
 
-**Next :** [](Day20.md)
+**Next :** coming soon...
