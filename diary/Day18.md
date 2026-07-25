@@ -36,4 +36,5 @@ Today's session helped me understand the importance of hyperparameter tuning in 
 ---
 
 
-**Next :**
+**Next :** [Day 19 – Project Development & Implementation](Day19.md)
+
