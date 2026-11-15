@@ -31,4 +31,5 @@ Today's session reinforced the importance of applying theoretical concepts to a 
 
 ---
 
-**Next :** coming soon...
+**Next :** [Day 20 – Final Project Evaluation](Day20.md)
+
